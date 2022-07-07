@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/scarecrow" mode="merge"/>
+    <filter root="/content/scarecrow" mode="merge"/>
+    <filter root="/content/dam/scarecrow/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/scarecrow" mode="merge"/>
+</workspaceFilter>
